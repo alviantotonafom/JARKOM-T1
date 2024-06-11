@@ -1,10 +1,10 @@
 # Nama Anggota Kelompok :
 
-1. Alvian
-2. Pramuja
-3. Fajri Permana
-4. Rafi
-5. Fadilah
-6. Maulana
-7. Rasyid
-9. Fajri Dzul
+1. Rafi Rahman Arifin 
+2. Alvian Totonafo 
+3. Rusandi pramuja
+4. Nur Muhamad Fadillah 
+5. M. Fajri Permana Haryanto 
+6. Fajri dzulqudwah 
+7. Rasyid Abdul rauf 
+8. Maulana rangga Ar-Rosyid

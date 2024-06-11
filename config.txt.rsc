@@ -28,3 +28,8 @@ add address=192.168.10.0/24 gateway=192.168.10.1
 add address=192.168.20.0/24 gateway=192.168.20.1
 /ip firewall nat
 add action=masquerade chain=srcnat out-interface=ether1
+/ip route
+add distance=1 dst-address=192.168.0.10/32 gateway=VLAN10
+add distance=2 dst-address=192.168.0.20/32 gateway=VLAN20
+/system clock
+set time-zone-name=Asia/Jakarta
